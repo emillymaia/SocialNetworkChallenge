@@ -12,6 +12,7 @@ struct SocialNetworkChallengeApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            
         }
     }
 }

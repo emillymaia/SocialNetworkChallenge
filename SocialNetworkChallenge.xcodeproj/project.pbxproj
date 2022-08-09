@@ -11,6 +11,7 @@
 		AB3E446C28A2810800106FAA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB3E446B28A2810800106FAA /* ContentView.swift */; };
 		AB3E446E28A2810800106FAA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB3E446D28A2810800106FAA /* Assets.xcassets */; };
 		AB3E447128A2810800106FAA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB3E447028A2810800106FAA /* Preview Assets.xcassets */; };
+		AB3E447A28A2A0E100106FAA /* RegisterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB3E447928A2A0E100106FAA /* RegisterView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		AB3E446B28A2810800106FAA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		AB3E446D28A2810800106FAA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AB3E447028A2810800106FAA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		AB3E447928A2A0E100106FAA /* RegisterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				AB3E446928A2810800106FAA /* SocialNetworkChallengeApp.swift */,
+				AB3E447928A2A0E100106FAA /* RegisterView.swift */,
 				AB3E446B28A2810800106FAA /* ContentView.swift */,
 				AB3E446D28A2810800106FAA /* Assets.xcassets */,
 				AB3E446F28A2810800106FAA /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB3E447A28A2A0E100106FAA /* RegisterView.swift in Sources */,
 				AB3E446C28A2810800106FAA /* ContentView.swift in Sources */,
 				AB3E446A28A2810800106FAA /* SocialNetworkChallengeApp.swift in Sources */,
 			);
